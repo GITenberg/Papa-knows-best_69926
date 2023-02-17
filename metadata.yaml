@@ -1,0 +1,25 @@
+_repo: Papa-knows-best_69926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Umphrey, Wallace
+    gutenberg_agent_id: '55495'
+    url: http://www.gutenberg.org/2009/agents/55495
+description: ''
+gutenberg_issued: '2023-02-01'
+identifiers:
+  gutenberg: '69926'
+language: en
+pgterms:marc905: 20220522083755umphrey
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1952.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Papa knows best
+url: http://www.gutenberg.org/ebooks/69926
